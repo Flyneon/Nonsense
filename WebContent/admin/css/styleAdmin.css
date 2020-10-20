@@ -1,0 +1,61 @@
+.main{
+	margin-left: auto;
+	margin-right: auto;
+	width:85%;
+	height:auto;
+}
+.banner{
+	width:100%;
+	height:250px;
+	background-color:red;
+}
+.menu{
+	list-style-type:none;
+	float:left;
+	width:100%;
+	height:40px;
+	background-color:#efae8f;
+}
+.menu ul li{
+	list-style-type:none;
+	padding-left:30px;
+	padding-right:10px;
+	float:left;
+	height:30px;
+}
+.menu ul li:hover{
+	color:white;
+}
+.content{
+	width:100%;
+	height:auto;
+	float:left;
+}
+
+div.box{
+	width:100%;
+	height:auto;
+}
+table{
+	width:95%;
+	float:left;
+	margin:5% 0 0  5%;
+	table-layout: fixed;
+}
+
+th,td{
+	float:left;
+	padding-left:10px;
+	padding-right:10px;
+	border:1px solid;
+}
+
+div.submit{
+	text-align:center;
+	margin-top: 40px;
+	height:40px;
+}
+
+div.clear{
+	clear:both;
+}
